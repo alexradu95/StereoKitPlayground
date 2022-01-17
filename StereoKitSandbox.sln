@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StereoKitBingMaps", "Stereo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StereoKitReleaseNotes", "StereoKitReleaseNotes\StereoKitReleaseNotes.csproj", "{E50F35C6-76A0-42FA-95B0-601316A80954}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StereoKitSample", "StereoKitSample\StereoKitSample.csproj", "{1F54922B-0DA3-48F2-9813-135D1F6DE861}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E50F35C6-76A0-42FA-95B0-601316A80954}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E50F35C6-76A0-42FA-95B0-601316A80954}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E50F35C6-76A0-42FA-95B0-601316A80954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F54922B-0DA3-48F2-9813-135D1F6DE861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F54922B-0DA3-48F2-9813-135D1F6DE861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F54922B-0DA3-48F2-9813-135D1F6DE861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F54922B-0DA3-48F2-9813-135D1F6DE861}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
