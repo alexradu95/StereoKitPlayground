@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StereoKitSandbox", "StereoKitSandbox\StereoKitSandbox.csproj", "{2E2C2573-7269-4820-8FA7-4A8E85AECC3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StereoKitSandbox", "StereoKitSandbox\StereoKitSandbox.csproj", "{2E2C2573-7269-4820-8FA7-4A8E85AECC3A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StereoKitInk", "StereoKitPaintTutorial\StereoKitInk.csproj", "{F714F6F7-F499-4A06-8DA4-ECD5ECB033DE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StereoKitBingMaps", "StereoKitBingMaps\StereoKitBingMaps.csproj", "{9C590994-67A7-4013-8553-11BD6CC89639}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StereoKitReleaseNotes", "StereoKitReleaseNotes\StereoKitReleaseNotes.csproj", "{E50F35C6-76A0-42FA-95B0-601316A80954}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{2E2C2573-7269-4820-8FA7-4A8E85AECC3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E2C2573-7269-4820-8FA7-4A8E85AECC3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E2C2573-7269-4820-8FA7-4A8E85AECC3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F714F6F7-F499-4A06-8DA4-ECD5ECB033DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F714F6F7-F499-4A06-8DA4-ECD5ECB033DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F714F6F7-F499-4A06-8DA4-ECD5ECB033DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F714F6F7-F499-4A06-8DA4-ECD5ECB033DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C590994-67A7-4013-8553-11BD6CC89639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C590994-67A7-4013-8553-11BD6CC89639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C590994-67A7-4013-8553-11BD6CC89639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C590994-67A7-4013-8553-11BD6CC89639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E50F35C6-76A0-42FA-95B0-601316A80954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E50F35C6-76A0-42FA-95B0-601316A80954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E50F35C6-76A0-42FA-95B0-601316A80954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E50F35C6-76A0-42FA-95B0-601316A80954}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
